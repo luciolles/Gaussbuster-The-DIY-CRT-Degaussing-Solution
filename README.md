@@ -7,7 +7,7 @@
 
 # ⚡ Key Features
 -   **Universal Compatibility:** Designed to interface with standard degaussing coils found on 14" to 29" tubes + all voltages (110 to 220V compatibility).
-    -   **Automatic Triggering:** Clears the screen on cold boots using a standard PTC (Positive Temperature Coefficient) thermistor setup.
+- **Automatic Triggering:** Clears the screen on cold boots using a standard PTC (Positive Temperature Coefficient) thermistor setup.
 -   **Compact Footprint:** Small enough to be tucked away inside most arcade cabinets or monitor housings.
 
 ## 🛠 Hardware Overview
