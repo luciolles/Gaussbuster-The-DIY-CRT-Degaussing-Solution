@@ -13,9 +13,9 @@
 ## 🛠 Hardware Overview
 |Component                            |Function                         |
 |-------------------------------|-----------------------------|
-|PTC Thermistor MZ73#L7R|`Controls the AC current decay to the coil. Rated Voltage (V) 110/220`            |
+|PTC Thermistor MZ73#L7R|`Controls the AC current decay to the coil. Rated Voltage (V) 110/220.`            |
 |Fused Input|`Protects your chassis from overcurrent in case of component failure.`            |
-|Conectors|`2 pins JST LV connector (optional)`|
+|Conectors|`2 pins JST LV connector (optional).`|
 
 
 ## 🚀 Getting Started
