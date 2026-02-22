@@ -19,8 +19,8 @@
 
 
 ## 🚀 Getting Started
- -  **Fabrication:** Download the Gerbers from the `/hardware` folder and send them to your preferred PCB fabricator.
- - **BOM:** Refer to the `BOM.md` file for the exact part numbers.
+ -  **Fabrication:** Download the Gerber.zip from the folder and send them to your preferred PCB fabricator.
+ - **BOM:** Refer to the `Detailed Bill of Material.md` file for the exact part numbers.
  - **Installation:** Mount the Gaussbuster card securely.
 	 - Connect the AC input (Parallel to the main power switch).
 	 - Connect the degaussing coil from the tube to the Gaussbuster output. 
