@@ -1,9 +1,9 @@
-![Gaussbuster: The DIY CRT Degaussing Solution](https://www.arcadeinthebox.com/images/Gaussbuster_The_DIY_CRT_Degaussing_Solution.png)
+![Gaussbusters: The DIY CRT Degaussing Solution](https://www.arcadeinthebox.com/images/Gaussbusters_The_DIY_CRT_Degaussing_Solution.png)
 
-# 📺 Gaussbuster: The DIY CRT Degaussing Solution
+# 📺 Gaussbusters: The DIY CRT Degaussing Solution
 **Gaussbuster** is an open-source add-on card designed for CRT chassis that lack an integrated degaussing circuit. Whether you are refurbishing a budget arcade monitor or a specialty display, Gaussbuster helps eliminate purity issues and color splotches by providing a clean, reliable degaussing pulse every time you power on.
 
-![Gaussbuster: The DIY CRT Degaussing Solution](https://www.arcadeinthebox.com/images/Gaussbuster-The-DIY-Degaussing-Solution.png)
+![Gaussbusters: The DIY CRT Degaussing Solution](https://www.arcadeinthebox.com/images/Gaussbusters-The-DIY-Degaussing-Solution.png)
 
 # ⚡ Key Features
 -   **Universal Compatibility:** Designed to interface with standard degaussing coils found on 14" to 29" tubes + all voltages (110 to 220V compatibility).
@@ -30,4 +30,4 @@
 
  - Complete KiCad project available. Special thanks to the budy https://github.com/Guimli for designing this PCB.
  - README.md powered by [stackedit.io](https://stackedit.io/app#)
- - 3D models powered by [snapeda.com](https://www.snapeda.com/)
+ - 3D models powered by [snapeda.com](https://www.snapeda.com/) & [Grabcad](https://grabcad.com/)
